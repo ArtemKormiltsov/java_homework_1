@@ -16,7 +16,7 @@ public class Client {
         if (age >= 21 & experience >= 6) {
             System.out.println("Вам одобрен кредит, в ближайшее время с вами свяжется наш менеджер.");
         } else {
-            System.out.println("К сожалению, вам отказано в кредите.");
+            System.out.println("К сожалению, Вам отказано в кредите.");
         }
     }
 
